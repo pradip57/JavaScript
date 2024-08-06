@@ -22,3 +22,15 @@ let salary = null; //best practice
 let phnNumber = "";
 let email = "";
 let address = ``;
+
+//e. undefined
+//remember js is loosely coupled dynamic type
+
+let a; //undefined
+
+//f. Array
+
+//g. Object/Json data(Universal Data type)
+//h. Function
+//i. Symbol(to make key unique)
+//j. Set(to make value unique)
